@@ -1,0 +1,17 @@
+{
+  "name": "graphql-apollo-hands-on-v1",
+  "version": "1.0.0",
+  "description": "Exercising that code muscles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Oliver Daniel Moreno Gonzalez",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.4.0",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.13"
+  }
+}
